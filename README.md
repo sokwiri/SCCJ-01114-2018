@@ -2,7 +2,7 @@
 # BookCave
 The Book store app is an Android application. It allows the user to select and buy or rent the book from this book app store. 
 
-#About the project
+# About the project
 This whole project has only one concept, which is to provide a wide range of book products to their customers. You can select any type of book you want to buy or borrow. Also, you can schedule your shipping details. You have to provide the proper shipping details.
 
 # Problem Statement - “Create a Book App Platform” with the following specifications -
