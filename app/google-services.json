@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975759787384",
+    "project_id": "book-cave-962ab",
+    "storage_bucket": "book-cave-962ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975759787384:android:f60295b7b20791f819748d",
+        "android_client_info": {
+          "package_name": "com.example.bookcave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975759787384-vthu4goqo9s6r7sqea80a1fh5cr5s7dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEcuWMS4-T6NQKUh_kRC9MNDUrsVkSjIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975759787384-vthu4goqo9s6r7sqea80a1fh5cr5s7dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
