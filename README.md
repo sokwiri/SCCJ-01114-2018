@@ -16,11 +16,12 @@ This whole project has only one concept, which is to provide a wide range of boo
 8. Display recommendations of other books based on the activities done by the user.
 9. Implement a basic UI with minimal functionality required.
  
- # Technology Stack : 
+ # Technology Stack Used : 
 Android (AndroidX)
 XML and Java
 Libraries -> GSON , JackSon Faster XML , Adapters , 
 XML Components -> Recycler Views , Card Views , Collapsing Toolbars.
+
  
 # Application Flow
 1. User Login (Dummy Users Created)
